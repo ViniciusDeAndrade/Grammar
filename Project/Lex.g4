@@ -13,7 +13,7 @@ COMP: 'comp';
 CONN: 'conn';
 CONFIGURATION: 'config';
 ATTACHMENT: 'attachment';
-BEHAVIOR: 'behave';
+//BEHAVIOR: 'behave';
 
 
 //lexers
