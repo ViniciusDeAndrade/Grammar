@@ -1,6 +1,14 @@
+/Lex.java
+/Lex.tokens
 /Build.tokens
 /BuildBaseListener.java
 /BuildLexer.java
 /BuildLexer.tokens
 /BuildListener.java
 /BuildParser.java
+/BNF.tokens
+/BNFBaseListener.java
+/BNFLexer.java
+/BNFLexer.tokens
+/BNFListener.java
+/BNFParser.java
